@@ -2,10 +2,7 @@
 This is a personal portfolio website that I built using HTML, CSS, and JavaScript to showcase my projects, skills, and contact information. It is fully responsive and designed with a clean and modern UI to give a professional feel.
 
 ## 🌐 Live Demo
-[Click here to view the website]( https://ankitrathore8749.github.io/Digital-Resume/)
-
-## 📸 Screenshot
-[To-Do List Screenshot](assets/Images/screenshot-dark-theme.png)
+[Click here to view the website]( https://ankitrathore8749.github.io/Portfolio-Website/)
 
 ## ✨ Features
 🏠 Home Section with a hero banner , intro And Social links 
