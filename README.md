@@ -5,14 +5,22 @@ This is a personal portfolio website that I built using HTML, CSS, and JavaScrip
 [Click here to view the website]( https://ankitrathore8749.github.io/Portfolio-Website/)
 
 ## ✨ Features
-🏠 Home Section with a hero banner , intro And Social links 
+🏠 Home Section with a hero banner , intro And Social links
+
 👨‍💻 About Me with What I'm Doing , Project Intro And Certificates
+
 📄 Resume Section with Education timeline with years and degrees
+
 💼 Work experience with roles and durations
+
 📊 Skills display (with progress bars or icons)
+
 📂 Projects Section showcasing my work with filters
+
 📄 Resume download button
+
 📞 Contact Form with EmailJS integration
+
 📱 Fully Responsive Design
 
 ## 🔧 Technologies Used
