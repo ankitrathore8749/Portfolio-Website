@@ -736,7 +736,7 @@ main {
 }
 
 .Certificates-item {
-  min-width: 60%;
+  min-width: 50%;
   scroll-snap-align: center;
 }
 
