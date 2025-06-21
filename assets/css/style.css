@@ -736,8 +736,8 @@ main {
 }
 
 .Certificates-item {
-  width: 50%;
-  scroll-snap-align: start;
+  min-width: 60%;
+  scroll-snap-align: center;
 }
 
 .Certificates-item img {
